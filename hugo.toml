@@ -52,6 +52,14 @@ defaultContentLanguage = "en"
       name = "Categories"
       url = "/categories/"
       title = ""
+    [[languages.en.menu.main]]
+      weight = 10
+      identifier = "about"
+      pre = ""
+      post = ""
+      name = "About"
+      url = "/about/"
+      title = ""
 
   [languages.zh-cn]
     weight = 2
@@ -90,6 +98,14 @@ defaultContentLanguage = "en"
       post = ""
       name = "分类"
       url = "/categories/"
+      title = ""
+    [[languages.en.menu.main]]
+      weight = 10
+      identifier = "about"
+      pre = ""
+      post = ""
+      name = "关于"
+      url = "/about/"
       title = ""
 
 [params]
