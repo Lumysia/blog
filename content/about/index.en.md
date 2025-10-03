@@ -46,6 +46,8 @@ assets:
   js: []
 ---
 
+## About Me
+
 Hey there, I'm Livia! Welcome to "Lumysia's Grimoire," my cozy corner of the internet.
 
 I recently moved to Oshawa, Canada, to pursue a Master's degree in Software Engineering at Ontario Tech University.
@@ -57,3 +59,8 @@ This blog is my space to share stories and reflections on:
 - Daily thoughts and other interesting stories.
 
 Welcome to my new mind home.
+
+## Find Me Here
+
+- Email: <sovranova@outlook.com>
+  - PGP Key: [CEAD651C8780CF74](/gpg-lumysia-pubkey.asc)
