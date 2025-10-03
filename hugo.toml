@@ -389,9 +389,9 @@ defaultContentLanguage = "en"
       [params.page.comment.giscus]
         enable = true
         repo = "Lumysia/blog"
-        repoId = ""
+        repoId = "R_kgDOP7sBAw"
         category = "Comments"
-        categoryId = ""
+        categoryId = "DIC_kwDOP7sBA84CwNkN"
         lang = ""
         mapping = "pathname"
         reactionsEnabled = "1"
