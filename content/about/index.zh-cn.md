@@ -64,3 +64,119 @@ assets:
 
 - 电子邮件: <sovranova@outlook.com>
   - PGP Key: [CEAD651C8780CF74](/gpg-lumysia-pubkey.asc)
+
+## 朋友们
+
+<style>
+  .friends-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 1.5rem;
+    list-style-type: none;
+    padding: 0;
+    margin-top: 2rem;
+  }
+
+  .friend-card {
+    border: 1px solid var(--border-color, #eee);
+    background: var(--card-background, #fafafa);
+    border-radius: 8px;
+    padding: 1rem;
+    transition: transform 0.2s, box-shadow 0.2s;
+    text-align: left;
+  }
+  .friend-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  }
+
+  .card-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 0.75rem;
+  }
+
+  .card-avatar {
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-right: 10px;
+  }
+
+  .card-name {
+    font-weight: bold;
+    font-size: 1.1em;
+    color: var(--body-color);
+  }
+
+  .card-description {
+    font-size: 0.85em;
+    color: var(--secondary-color, #777);
+    margin: 0;
+  }
+
+  .friend-card a {
+    text-decoration: none;
+    color: inherit;
+  }
+
+  body[theme="dark"] .friend-card {
+    border: 1px solid #333;
+    background: #252627;
+  }
+  body[theme="dark"] .friend-card:hover {
+    box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+  }
+
+  @media (max-width: 768px) {
+    .friends-grid {
+      grid-template-columns: 1fr 1fr;
+    }
+  }
+  @media (max-width: 480px) {
+    .friends-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>
+
+<div class="friends-grid">
+
+  <div class="friend-card">
+    <a href="https://example.com" target="_blank" rel="noopener noreferrer">
+      <div class="card-header">
+        <img src="https://i.pravatar.cc/300" alt="示例头像" class="card-avatar">
+        <span class="card-name">示例朋友</span>
+      </div>
+      <p class="card-description">
+        示例描述.
+      </p>
+    </a>
+  </div>
+
+  <div class="friend-card">
+    <a href="https://example.com" target="_blank" rel="noopener noreferrer">
+      <div class="card-header">
+        <img src="https://i.pravatar.cc/300" alt="示例头像" class="card-avatar">
+        <span class="card-name">示例朋友</span>
+      </div>
+      <p class="card-description">
+        示例描述.
+      </p>
+    </a>
+  </div>
+  
+  <div class="friend-card">
+    <a href="https://example.com" target="_blank" rel="noopener noreferrer">
+      <div class="card-header">
+        <img src="https://i.pravatar.cc/300" alt="示例头像" class="card-avatar">
+        <span class="card-name">示例朋友</span>
+      </div>
+      <p class="card-description">
+        示例描述.
+      </p>
+    </a>
+  </div>
+
+</div>
