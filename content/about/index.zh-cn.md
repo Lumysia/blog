@@ -144,13 +144,13 @@ assets:
 <div class="friends-grid">
 
   <div class="friend-card">
-    <a href="https://example.com" target="_blank" rel="noopener noreferrer">
+    <a href="https://meiza.cc/" target="_blank" rel="noopener noreferrer">
       <div class="card-header">
-        <img src="https://i.pravatar.cc/300" alt="示例头像" class="card-avatar">
-        <span class="card-name">示例朋友</span>
+        <img src="https://meiza.cc/wp-content/uploads/2024/11/%E9%80%8F%E6%98%8E%E5%BA%95812264566f14da8ea7f525b8cb97fc1e-01.png" alt="Meiza的头像" class="card-avatar">
+        <span class="card-name">Meiza</span>
       </div>
       <p class="card-description">
-        示例描述.
+        你找到啦~ 欢迎来到Meiza的小盒 – 这里是meiza的个人网站！
       </p>
     </a>
   </div>
