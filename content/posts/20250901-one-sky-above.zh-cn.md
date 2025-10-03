@@ -10,10 +10,12 @@ draft: false
 categories:
   - 生活随笔
 tags:
-  - 加拿大
+  # Location
   - 奥沙瓦
   - 昆明
+  # Topic
   - 学生生活
+  # Type/Style
   - 随想
 
 # --- Author ---

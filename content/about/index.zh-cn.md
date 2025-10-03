@@ -1,21 +1,14 @@
 ---
 # --- Core Content ---
-title: '{{ replace .File.ContentBaseName "-" " " | title }}'
+title: '关于'
 description: "A brief page description for SEO and previews."
-date: '{{ .Date }}'
-lastmod: '{{ .Date }}'
-draft: true
+date: '2025-10-03T19:42:26Z'
+lastmod: '2025-10-03T19:42:26Z'
+draft: false
 
 # --- Taxonomies ---
-categories:
-  - CATEGORIES
 tags:
-  # Location
-  - Earth
-  # Topic
-  - Life
-  # Type/Style
-  - Reflections
+categories:
 
 # --- Author ---
 authors:
@@ -53,6 +46,14 @@ assets:
   js: []
 ---
 
-## Title 1
+嗨，我是Livia！欢迎来到《露米希亚的魔法书》—— 我在互联网上的温馨小天地。
 
-## Title 2
+我最近搬到了加拿大奥沙瓦（Oshawa），在安大略理工大学（Ontario Tech University）攻读软件工程硕士学位。
+
+这个博客是我的个人空间，用来分享我的故事与思考，内容包括：
+
+- 我的生活点滴。
+- 未来在维护家庭服务器与开发软件方面的探索。
+- 日常的所思所想及其他有趣的故事。
+
+欢迎来到我新的精神家园。

@@ -10,10 +10,12 @@ draft: false
 categories:
   - Life Jottings
 tags:
-  - Canada
+  # Location
   - Oshawa
   - Kunming
+  # Topic
   - Student Life
+  # Type/Style
   - Reflections
 
 # --- Author ---

@@ -1,21 +1,14 @@
 ---
 # --- Core Content ---
-title: '{{ replace .File.ContentBaseName "-" " " | title }}'
+title: 'About'
 description: "A brief page description for SEO and previews."
-date: '{{ .Date }}'
-lastmod: '{{ .Date }}'
-draft: true
+date: '2025-10-03T19:42:23Z'
+lastmod: '2025-10-03T19:42:23Z'
+draft: false
 
 # --- Taxonomies ---
-categories:
-  - CATEGORIES
-tags:
-  # Location
-  - Earth
-  # Topic
-  - Life
-  # Type/Style
-  - Reflections
+tags: []
+categories: []
 
 # --- Author ---
 authors:
@@ -53,6 +46,14 @@ assets:
   js: []
 ---
 
-## Title 1
+Hey there, I'm Livia! Welcome to "Lumysia's Grimoire," my cozy corner of the internet.
 
-## Title 2
+I recently moved to Oshawa, Canada, to pursue a Master's degree in Software Engineering at Ontario Tech University.
+
+This blog is my space to share stories and reflections on:
+
+- My life.
+- Future adventures in maintaining a homelab server and development software.
+- Daily thoughts and other interesting stories.
+
+Welcome to my new mind home.
