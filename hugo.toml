@@ -76,7 +76,7 @@ defaultContentLanguage = "en"
       url = "/zh-cn/"
       title = ""
     [[languages.zh-cn.menu.main]]
-      weight = 1
+      weight = 2
       identifier = "posts"
       pre = ""
       post = ""
@@ -84,7 +84,7 @@ defaultContentLanguage = "en"
       url = "/posts/"
       title = ""
     [[languages.zh-cn.menu.main]]
-      weight = 2
+      weight = 3
       identifier = "tags"
       pre = ""
       post = ""
@@ -92,14 +92,14 @@ defaultContentLanguage = "en"
       url = "/tags/"
       title = ""
     [[languages.zh-cn.menu.main]]
-      weight = 3
+      weight = 4
       identifier = "categories"
       pre = ""
       post = ""
       name = "分类"
       url = "/categories/"
       title = ""
-    [[languages.en.menu.main]]
+    [[languages.zh-cn.menu.main]]
       weight = 10
       identifier = "about"
       pre = ""
