@@ -180,3 +180,7 @@ Welcome to my new mind home.
   </div>
 
 </div>
+
+## Resources
+
+- Source Code: [Lumysia/blog - Github](https://github.com/Lumysia/blog)
