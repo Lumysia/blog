@@ -1,7 +1,8 @@
 baseURL = "https://blog.lumysia.net/"
 theme = "LoveIt"
+timeZone = "America/Toronto"
 
-copyright = "© 2025-2025 Livia Z."
+copyright = ""
 enableRobotsTXT = true
 enableGitInfo = true
 enableEmoji = true
