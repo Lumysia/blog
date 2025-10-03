@@ -312,7 +312,7 @@ defaultContentLanguage = "en"
       enable = true
       X = true
       Twitter = false
-      Threads = true
+      Threads = false
       Facebook = true
       Linkedin = true
       Whatsapp = true
@@ -334,7 +334,7 @@ defaultContentLanguage = "en"
       Evernote = false
       Skype = false
       Trello = false
-      Diaspora = true
+      Diaspora = false
       Mix = false
       Telegram = true
     [params.page.comment]
