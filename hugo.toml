@@ -116,7 +116,7 @@ defaultContentLanguage = "en"
   dateFormat = "2006-01-02"
   title = "Lumysia's Grimoire"
   description = "Welcome to Lumysia's Grimoire. A digital spellbook where complex tech topics are decoded into powerful spells. Explore secrets of programming, reverse engineering, and software development."
-  images = ["/logo_square.svg"]
+  images = ["/images/logo_square.svg"]
 
   [params.author]
     name = "Lumysia"
