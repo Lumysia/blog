@@ -505,3 +505,5 @@ defaultContentLanguage = "en"
   section = ["HTML", "RSS"]
   taxonomy = ["HTML", "RSS"]
 
+[frontmatter]
+  lastmod = [":git", "lastmod", ":default"]
