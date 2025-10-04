@@ -68,7 +68,7 @@ seo:
 
 ## 1. Introduction
 
-Welcome to Lumysia's Grimoire ("we", "us", "our"). This website is accessible at `https://blog.lumysia.net/`. We are committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you visit our website.
+Welcome to Lumysia's Grimoire ("we", "us", "our"). We are committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you visit our website.
 
 ## 2. Information We Collect
 
