@@ -96,7 +96,7 @@ seo:
 
 - **Giscus (用于评论):** 我们的评论系统由 Giscus 提供支持，它利用了 GitHub Discussions 功能。当您发表评论时，您需要通过您的 GitHub 帐户进行身份验证。您的评论以及您的公开 GitHub 个人资料信息（例如您的用户名和头像）将是公开可见的。我们不会在自己的服务器上存储这些信息。您与评论系统的互动受 [GitHub 隐私声明](https://docs.github.com/zh/site-policy/privacy-policies/github-privacy-statement) 的约束。
 
-- **Google Analytics (谷歌分析):** 我们使用谷歌分析来监控和分析网络流量。谷歌分析可能使用 Cookie 以匿名方式收集标准的互联网日志信息和访客行为信息。由 Cookie 生成的关于您使用本网站的信息（包括经过匿名化处理的 IP 地址）将被传输给谷歌。有关谷歌如何使用数据的更多信息，请访问 [谷歌的隐私与条款](https://policies.google.com/privacy?hl=zh-CN)。您可以通过安装 [谷歌分析选择停用浏览器插件](https://tools.google.com/dlpage/gaoptout) 来选择不被谷歌分析追踪。
+- **Cloudflare:** 我们使用 Cloudflare 来增强我们网站的安全性和性能。Cloudflare 的服务对于保护我们的网站免受恶意活动攻击和优化内容分发至关重要。因此，当您访问我们的网站时，您的 IP 地址和其他设备信息等某些数据可能会由 Cloudflare 处理。这些信息的处理将遵循 Cloudflare 的隐私政策。您可以通过查看 [Cloudflare 隐私政策](https://www.cloudflare.com/privacypolicy/)来了解更多关于他们如何处理数据的信息。
 
 ## 5. Cookies
 
