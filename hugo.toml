@@ -127,7 +127,7 @@ defaultContentLanguage = "en"
     desktopMode = "fixed"
     mobileMode = "auto"
     [params.header.title]
-      logo = "/images/logo.png"
+      logo = ""
       name = "Lumysia's Grimoire"
       pre = ""
       post = ""
