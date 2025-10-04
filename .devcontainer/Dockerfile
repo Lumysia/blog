@@ -1,6 +1,8 @@
 # syntax=docker/dockerfile:1
 FROM mcr.microsoft.com/devcontainers/base:debian
 
+ENV TZ="America/Toronto"
+
 ARG USER=vscode
 ARG DEBIAN_FRONTEND=noninteractive
 RUN usermod -s /usr/bin/zsh ${USER}
