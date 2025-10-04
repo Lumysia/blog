@@ -3,7 +3,6 @@
 title: 'One Sky Above'
 description: "Livia's blog about her new chapter in Canada. A software engineering student shares stories of code, student life, and reflections under the sky of her new home."
 date: '2025-09-01T18:36:30Z'
-lastmod: '2025-09-01T18:36:30Z'
 draft: false
 
 # --- Taxonomies ---

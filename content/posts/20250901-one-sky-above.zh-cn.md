@@ -3,7 +3,6 @@
 title: '同一片晴空下'
 description: "Livia的博客。记录一名软件工程研究生在加拿大的新篇章：关于代码、留学生活，以及那片连接异乡与故里的晴空下的思绪。"
 date: '2025-09-01T18:36:34Z'
-lastmod: '2025-09-01T18:36:34Z'
 draft: false
 
 # --- Taxonomies ---

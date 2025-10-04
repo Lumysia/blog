@@ -3,12 +3,11 @@
 title: 'About'
 description: "A brief page description for SEO and previews."
 date: '2025-10-03T19:42:23Z'
-lastmod: '2025-10-03T19:42:23Z'
 draft: false
 
 # --- Taxonomies ---
-tags: []
-categories: []
+tags:
+categories:
 
 # --- Author ---
 authors:

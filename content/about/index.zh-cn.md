@@ -3,7 +3,6 @@
 title: '关于'
 description: "A brief page description for SEO and previews."
 date: '2025-10-03T19:42:26Z'
-lastmod: '2025-10-03T19:42:26Z'
 draft: false
 
 # --- Taxonomies ---
