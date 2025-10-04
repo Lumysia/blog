@@ -105,7 +105,7 @@ seo:
    2. 你看到了什么？啊哈！是你的用户主文件夹，对吧？这是因为你念出 Python 咒语的地方就在那里。
 3. 秘密通道：Cloudflare 隧道
    1. 让我们来安装我们的秘密武器！打开一个新的 PowerShell 窗口，输入这句咒语：`winget install Cloudflare.cloudflared`，然后按 `Enter`。
-   2. 完成之后，就是最后的附魔了！在同一个窗口里，输入：`cloudflared tunnel --url http://127.0.0.1:8000`
+   2. 完成之后，就是最后的附魔了！在新的 PowerShell 窗口里，输入：`cloudflared tunnel --url http://127.0.0.1:8000`
    3. 给它大概 10 秒钟施展魔法……你有没有看到一大堆文字弹出来，还有一个特殊的 `trycloudflare.com` 链接？
 
     ```log

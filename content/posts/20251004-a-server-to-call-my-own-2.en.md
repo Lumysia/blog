@@ -103,7 +103,7 @@ First things first... you know what system your computer is running, right? Hehe
    2. What do you see? Aha! That's your home folder, right? It's because that's where you cast your Python spell from.
 3. The Secret Passageway: Cloudflare Tunnel
    1. Let's install our secret ingredient! Open a new PowerShell window and type this spell: `winget install Cloudflare.cloudflared`, then press `Enter`.
-   2. Once that's done, it's time for the final enchantment! In the same window, type: `cloudflared tunnel --url http://127.0.0.1:8000`
+   2. Once that's done, it's time for the final enchantment! Open a new PowerShell window, type: `cloudflared tunnel --url http://127.0.0.1:8000`
    3. Give it about 10 seconds to work its magic... have you seen a bunch of text pop up with a special `trycloudflare.com` link?
 
     ```log
