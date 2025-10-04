@@ -3,7 +3,6 @@
 title: '{{ replace .File.ContentBaseName "-" " " | title }}'
 description: "A brief page description for SEO and previews."
 date: '{{ .Date }}'
-lastmod: '{{ .Date }}'
 draft: true
 
 # --- Taxonomies ---
