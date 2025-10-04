@@ -1,48 +1,67 @@
 ---
 # --- Core Content ---
 title: 'About'
-description: "A brief page description for SEO and previews."
+subtitle: ""
 date: '2025-10-03T19:42:23Z'
 draft: false
-
-# --- Taxonomies ---
-tags:
-categories:
+description: ""
 
 # --- Author ---
-authors:
-  - Lumysia
+author: "Lumysia"
+authorLink: ""
+license: ""
 
-# --- Featured Image ---
-image:
-  src: "" # Path to the image (e.g., /images/posts/hello.jpg)
-  alt: "" # Alt text for SEO and accessibility
-  caption: "" # Optional caption below the image
+# --- Images ---
+images: []
+#featuredImage: ""
+#featuredImagePreview: ""
+
+# --- Taxonomies ---
+categories:
+tags:
 
 # --- Page Behavior ---
-build:
-  render: true # Set to `never` to prevent this page from being built
-  list: true # Set to `never` to hide from lists (homepage, archives, etc.)
-  publishResources: true
+hiddenFromHomePage: false
+hiddenFromSearch: false
 
 # --- Page Features ---
-features:
-  toc: true
-  comment: true
-  share: true
-  math: false
+twemoji: false
+lightgallery: true
+ruby: true
+fraction: true
+fontawesome: true
+linkToMarkdown: true
+rssFullText: false
+
+toc:
+  enable: true
+  auto: true
 
 # --- Advanced Configuration ---
 code:
   copy: true
   maxShownLines: 50
+math:
+  enable: false
+mapbox:
+share:
+  enable: true
+comment:
+  enable: true
+library:
+  css:
+    # someCSS = "some.css"
+    # located in "assets/"
+    # Or
+    # someCSS = "https://cdn.example.com/some.css"
+  js:
+    # someJS = "some.js"
+    # located in "assets/"
+    # Or
+    # someJS = "https://cdn.example.com/some.js"
 seo:
-  # Override the default social media image (which uses `image.src`)
-  images: [] # e.g., ["/images/posts/hello-social.jpg"]
-assets:
-  # Load page-specific CSS or JS files (relative to the `assets` directory)
-  css: []
-  js: []
+  images: []
+  # ...
 ---
 
 ## About Me

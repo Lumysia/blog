@@ -1,9 +1,20 @@
 ---
 # --- Core Content ---
 title: '同一片晴空下'
-description: "Livia的博客。记录一名软件工程研究生在加拿大的新篇章：关于代码、留学生活，以及那片连接异乡与故里的晴空下的思绪。"
+subtitle: ""
 date: '2025-09-01T18:36:34Z'
 draft: false
+description: "Livia的博客，记录一名软件工程研究生在加拿大的新篇章。"
+
+# --- Author ---
+author: "Lumysia"
+authorLink: ""
+license: ""
+
+# --- Images ---
+images: []
+#featuredImage: ""
+#featuredImagePreview: ""
 
 # --- Taxonomies ---
 categories:
@@ -17,40 +28,48 @@ tags:
   # Type/Style
   - 随想
 
-# --- Author ---
-authors:
-  - Lumysia
-
-# --- Featured Image ---
-image:
-  src: "" # Path to the image (e.g., /images/posts/hello.jpg)
-  alt: "" # Alt text for SEO and accessibility
-  caption: "" # Optional caption below the image
-
 # --- Page Behavior ---
-build:
-  render: true # Set to `never` to prevent this page from being built
-  list: true # Set to `never` to hide from lists (homepage, archives, etc.)
-  publishResources: true
+hiddenFromHomePage: false
+hiddenFromSearch: false
 
 # --- Page Features ---
-features:
-  toc: true
-  comment: true
-  share: true
-  math: false
+twemoji: false
+lightgallery: true
+ruby: true
+fraction: true
+fontawesome: true
+linkToMarkdown: true
+rssFullText: false
+
+toc:
+  enable: true
+  auto: true
 
 # --- Advanced Configuration ---
 code:
   copy: true
   maxShownLines: 50
+math:
+  enable: false
+mapbox:
+share:
+  enable: true
+comment:
+  enable: true
+library:
+  css:
+    # someCSS = "some.css"
+    # located in "assets/"
+    # Or
+    # someCSS = "https://cdn.example.com/some.css"
+  js:
+    # someJS = "some.js"
+    # located in "assets/"
+    # Or
+    # someJS = "https://cdn.example.com/some.js"
 seo:
-  # Override the default social media image (which uses `image.src`)
-  images: [] # e.g., ["/images/posts/hello-social.jpg"]
-assets:
-  # Load page-specific CSS or JS files (relative to the `assets` directory)
-  css: []
-  js: []
+  images: []
+  # ...
 ---
 
 > 本文由 Gemini 2.5 Pro 翻译

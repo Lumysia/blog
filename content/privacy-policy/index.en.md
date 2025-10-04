@@ -1,48 +1,67 @@
 ---
 # --- Core Content ---
 title: 'Privacy Policy'
-description: "Privacy Policy."
+subtitle: ""
 date: '2025-10-03T18:08:18Z'
 draft: false
+description: ""
+
+# --- Author ---
+author: "Lumysia"
+authorLink: ""
+license: ""
+
+# --- Images ---
+images: []
+#featuredImage: ""
+#featuredImagePreview: ""
 
 # --- Taxonomies ---
 categories:
 tags:
 
-# --- Author ---
-authors:
-  - Lumysia
-
-# --- Featured Image ---
-image:
-  src: "" # Path to the image (e.g., /images/posts/hello.jpg)
-  alt: "" # Alt text for SEO and accessibility
-  caption: "" # Optional caption below the image
-
 # --- Page Behavior ---
-build:
-  render: true # Set to `never` to prevent this page from being built
-  list: true # Set to `never` to hide from lists (homepage, archives, etc.)
-  publishResources: true
+hiddenFromHomePage: false
+hiddenFromSearch: false
 
 # --- Page Features ---
-features:
-  toc: true
-  comment: false
-  share: false
-  math: false
+twemoji: false
+lightgallery: true
+ruby: true
+fraction: true
+fontawesome: true
+linkToMarkdown: true
+rssFullText: false
+
+toc:
+  enable: true
+  auto: true
 
 # --- Advanced Configuration ---
 code:
   copy: true
   maxShownLines: 50
+math:
+  enable: false
+mapbox:
+share:
+  enable: true
+comment:
+  enable: true
+library:
+  css:
+    # someCSS = "some.css"
+    # located in "assets/"
+    # Or
+    # someCSS = "https://cdn.example.com/some.css"
+  js:
+    # someJS = "some.js"
+    # located in "assets/"
+    # Or
+    # someJS = "https://cdn.example.com/some.js"
 seo:
-  # Override the default social media image (which uses `image.src`)
-  images: [] # e.g., ["/images/posts/hello-social.jpg"]
-assets:
-  # Load page-specific CSS or JS files (relative to the `assets` directory)
-  css: []
-  js: []
+  images: []
+  # ...
 ---
 
 **Effective Date:** 2025-10-03
@@ -97,7 +116,4 @@ We may update this Privacy Policy from time to time. The updated version will be
 
 ## 9. Contact Us
 
-If you have questions or comments about this Privacy Policy, please contact us at:
-
-- **Name:** Lumysia
-- **Email:** <sovranova@outlook.com>
+If you have questions or comments about this Privacy Policy, please contact us.
