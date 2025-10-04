@@ -1,10 +1,49 @@
-+++
-date = '2025-10-03T18:12:37Z'
-draft = false
-title = '隐私政策'
-hiddenFromHomePage = true
-hiddenFromSearch = true
-+++
+---
+# --- Core Content ---
+title: '隐私政策'
+description: "隐私政策。"
+date: '2025-10-03T18:08:18Z'
+draft: false
+
+# --- Taxonomies ---
+categories:
+tags:
+
+# --- Author ---
+authors:
+  - Lumysia
+
+# --- Featured Image ---
+image:
+  src: "" # Path to the image (e.g., /images/posts/hello.jpg)
+  alt: "" # Alt text for SEO and accessibility
+  caption: "" # Optional caption below the image
+
+# --- Page Behavior ---
+build:
+  render: true # Set to `never` to prevent this page from being built
+  list: true # Set to `never` to hide from lists (homepage, archives, etc.)
+  publishResources: true
+
+# --- Page Features ---
+features:
+  toc: true
+  comment: false
+  share: false
+  math: false
+
+# --- Advanced Configuration ---
+code:
+  copy: true
+  maxShownLines: 50
+seo:
+  # Override the default social media image (which uses `image.src`)
+  images: [] # e.g., ["/images/posts/hello-social.jpg"]
+assets:
+  # Load page-specific CSS or JS files (relative to the `assets` directory)
+  css: []
+  js: []
+---
 
 **生效日期:** 2025年10月03日
 
