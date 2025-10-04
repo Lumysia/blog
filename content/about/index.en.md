@@ -164,7 +164,7 @@ Welcome to my new mind home.
   <div class="friend-card">
     <a href="https://meiza.cc/" target="_blank" rel="noopener noreferrer">
       <div class="card-header">
-        <img src="https://meiza.cc/wp-content/uploads/2024/11/%E9%80%8F%E6%98%8E%E5%BA%95812264566f14da8ea7f525b8cb97fc1e-01.png" alt="Meiza's Avatar" class="card-avatar">
+        <img src="https://meiza.cc/wp-content/uploads/2024/11/812264566f14da8ea7f525b8cb97fc1e.png" alt="Meiza's Avatar" class="card-avatar">
         <span class="card-name">Meiza</span>
       </div>
       <p class="card-description">
