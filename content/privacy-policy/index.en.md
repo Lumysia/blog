@@ -45,9 +45,9 @@ math:
   enable: false
 mapbox:
 share:
-  enable: true
+  enable: false
 comment:
-  enable: true
+  enable: false
 library:
   css:
     # someCSS = "some.css"
