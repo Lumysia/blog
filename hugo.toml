@@ -1,7 +1,6 @@
 baseURL = "https://blog.lumysia.net/"
 theme = "LoveIt"
 timeZone = "America/Toronto"
-enableGitInfo = true
 
 copyright = ""
 enableRobotsTXT = true
