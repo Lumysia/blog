@@ -504,6 +504,3 @@ defaultContentLanguage = "en"
   page = ["HTML", "MarkDown"]
   section = ["HTML", "RSS"]
   taxonomy = ["HTML", "RSS"]
-
-[frontmatter]
-  lastmod = [":git", "lastmod", ":default"]
