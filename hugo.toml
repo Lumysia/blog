@@ -127,8 +127,8 @@ defaultContentLanguage = "en"
     desktopMode = "fixed"
     mobileMode = "auto"
     [params.header.title]
-      logo = ""
-      name = ""
+      logo = "/images/logo.png"
+      name = "Lumysia's Grimoire"
       pre = ""
       post = ""
       typeit = false
@@ -409,7 +409,7 @@ defaultContentLanguage = "en"
       images = []
       [params.page.seo.publisher]
         name = "Lumysia"
-        logoUrl = "https://blog.lumysia.net/images/avatar.png"
+        logoUrl = "https://blog.lumysia.net/images/logo.png"
 
   [params.typeit]
     speed = 100
