@@ -72,25 +72,9 @@ Welcome to Lumysia's Grimoire ("we", "us", "our"). We are committed to protectin
 
 ## 2. Information We Collect
 
-We may collect information about you in a variety of ways. The information we may collect on the Site includes:
+We do not collect any personal information from our visitors. This is a static website built with Hugo, and we do not use any tracking technologies, cookies, or server-side analytics that would identify you personally. Your visit to this website is completely anonymous.
 
-### Personal Data
-
-Personally identifiable information, such as your name, email address, and other profile information, is collected when you choose to leave a comment. You are under no obligation to provide us with personal information of any kind; however, your refusal to do so may prevent you from using certain features of the Site, such as the comment section.
-
-### Derivative Data
-
-Information our servers automatically collect when you access the Site, such as your IP address, your browser type, your operating system, your access times, and the pages you have viewed directly before and after accessing the Site. This information is collected by our analytics service provider.
-
-## 3. How We Use Your Information
-
-Having accurate information permits us to provide you with a smooth, efficient, and customized experience. Specifically, we may use information collected about you via the Site to:
-
-- Analyze usage and trends to improve our website and user experience.
-- Enable user-to-user communications via the comment system.
-- Respond to your comments or questions.
-
-## 4. Third-Party Services
+## 3. Third-Party Services
 
 We use third-party services on our website. We do not control these third parties, and their privacy policies govern their use of your information.
 
@@ -99,22 +83,24 @@ We use third-party services on our website. We do not control these third partie
 - **Cloudflare:** We use Cloudflare to enhance the security and performance of our website. Cloudflare's services are essential for protecting our site against malicious activities and for optimizing content delivery. As a result, certain data, such as your IP address and other device information, may be processed by Cloudflare when you access our website. This information is handled in accordance with Cloudflare's privacy policy.
 You can learn more about how Cloudflare handles data by reviewing their [privacy policy](https://www.cloudflare.com/privacypolicy/).
 
-## 5. Cookies
+## 4. Cookies
 
 A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. We use a cookie consent banner to manage your consent. Third-party services like Google Analytics may also place cookies on your browser to perform their services. You can set your browser to refuse cookies, but note that some parts of the website may not function properly without them.
 
-## 6. Data Security
+Our website, being a static site, does not directly use or set any cookies for tracking or analytical purposes. However, third-party services that we use, such as Cloudflare, may set cookies that are strictly necessary for the security and functionality of the site. These cookies do not store any personally identifiable information and are essential for protecting our site from malicious traffic. You can manage or disable cookies through your web browser's settings, but please be aware that doing so may affect the functionality or security of this website.
+
+## 5. Data Security
 
 We use administrative, technical, and physical security measures to help protect your personal information. While we have taken reasonable steps to secure the personal information you provide to us, please be aware that despite our efforts, no security measures are perfect or impenetrable, and no method of data transmission can be guaranteed against any interception or other type of misuse.
 
-## 7. Children's Privacy
+## 6. Children's Privacy
 
 This website is not intended for children under the age of 13. We do not knowingly collect personally identifiable information from children under 13.
 
-## 8. Changes to This Privacy Policy
+## 7. Changes to This Privacy Policy
 
 We may update this Privacy Policy from time to time. The updated version will be indicated by an updated "Effective Date" at the top of this Privacy Policy. We encourage you to review this Privacy Policy periodically to stay informed of our updates.
 
-## 9. Contact Us
+## 8. Contact Us
 
 If you have questions or comments about this Privacy Policy, please contact us.
