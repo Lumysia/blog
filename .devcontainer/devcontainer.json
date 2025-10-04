@@ -39,6 +39,7 @@
         // "naumovs.color-highlight",
         // "GitHub.vscode-pull-request-github",
         // "eamodio.gitlens",
+        "yzhang.markdown-all-in-one",
         "davidanson.vscode-markdownlint",
         "streetsidesoftware.code-spell-checker"
       ]
