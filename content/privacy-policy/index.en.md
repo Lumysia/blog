@@ -88,18 +88,14 @@ A cookie is a string of information that a website stores on a visitor’s compu
 
 Our website, being a static site, does not directly use or set any cookies for tracking or analytical purposes. However, third-party services that we use, such as Cloudflare, may set cookies that are strictly necessary for the security and functionality of the site. These cookies do not store any personally identifiable information and are essential for protecting our site from malicious traffic. You can manage or disable cookies through your web browser's settings, but please be aware that doing so may affect the functionality or security of this website.
 
-## 5. Data Security
-
-We use administrative, technical, and physical security measures to help protect your personal information. While we have taken reasonable steps to secure the personal information you provide to us, please be aware that despite our efforts, no security measures are perfect or impenetrable, and no method of data transmission can be guaranteed against any interception or other type of misuse.
-
-## 6. Children's Privacy
+## 5. Children's Privacy
 
 This website is not intended for children under the age of 13. We do not knowingly collect personally identifiable information from children under 13.
 
-## 7. Changes to This Privacy Policy
+## 6. Changes to This Privacy Policy
 
 We may update this Privacy Policy from time to time. The updated version will be indicated by an updated "Effective Date" at the top of this Privacy Policy. We encourage you to review this Privacy Policy periodically to stay informed of our updates.
 
-## 8. Contact Us
+## 7. Contact Us
 
 If you have questions or comments about this Privacy Policy, please contact us.
